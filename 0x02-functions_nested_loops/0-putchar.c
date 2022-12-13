@@ -1,6 +1,4 @@
-#include <stdio.h>
 #include <main.h>
-
 /**
  * main - Entry point
  *
@@ -10,15 +8,13 @@
 
 int main(void)
 {
-	putchar('H');
-	putchar('o');
-	putchar('l');
-	putchar('b');
-	putchar('e');
-	putchar('r');
-	putchar('t');
-	putchar('o');
-	putchar('n');
-	putchar('\n');
+	_putchar('p');
+	_putchar('u');
+	_putchar('t');
+	_putchar('c');
+	_putchar('h');
+	_putchar('a');
+	_putchar('r');
+	_putchar('\n');
 	return (0);
 }
