@@ -21,7 +21,3 @@ int _strcmp(char *s1, char *s2)
 	}
 	return (*s1 - *s2);
 }
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Term
